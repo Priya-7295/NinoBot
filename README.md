@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <a href="https://api-botchat.xyz">
-        <img src="https://i.imgur.com/sxW5AWa.png" alt="Logo">
+        <img src="https://i.imgur.com/DLD4ykt.png" alt="Logo">
     </a>
 
 <h3 align="center">Nino Bot</h3>
